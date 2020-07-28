@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 
 
-<!--
-**felipecsaraiva/felipecsaraiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Felipe, I'm from Brazil.
 
-Here are some ideas to get you started:
+I work as a developer since 2008 where I was able to develop a solid career with C #.
+I am currently working as an ERP consultant for companies that use TOTVS, focusing essentially on the integration between applications and management data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In parallel, I am studying and developing projects with Node.js, React and React Native.
+
+My hobie is creating games using javascript, most of the time.
+
+💬 Let's talk 
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipecsaraiva)](https://twitter.com/felipecsaraiva)
