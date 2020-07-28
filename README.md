@@ -7,7 +7,7 @@ I am currently working as an ERP consultant for companies that use TOTVS, focusi
 
 In parallel, I am studying and developing projects with Node.js, React and React Native.
 
-My hobie is creating games using javascript, most of the time.
+My hobie is create games. Using javascript, most of the time.
 
 💬 Let's talk 
 
