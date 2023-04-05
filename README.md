@@ -1,13 +1,7 @@
-### Hi there 
+### Felipe Saraiva 
 
-My name is Felipe, I'm from Brazil.
-
-I work as a developer since 2008 where I was able to develop a solid career.
-I am currently working as an ERP consultant for companies that use TOTVS, focusing essentially on the integration between applications and management data analysis.
-
-In parallel, i'v been working in projects with Angular and Nodejs and also studying React and React Native.
-
-My hobie is create games. Using javascript, most of the time.
+Senior Fullstack Developer
+Reactjs + C#.net
 
 💬 Let's talk 
 
